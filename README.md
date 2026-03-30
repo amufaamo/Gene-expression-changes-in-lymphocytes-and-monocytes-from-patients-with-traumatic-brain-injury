@@ -3,12 +3,8 @@
 </p>
 
 #  Gene expression changes in lymphocytes and monocytes from patients with traumatic brain injury
-
-## Abstract
+Hiroshi Ito, Masakazu Ishikawa, Hisatake Matsumoto, Hiroshi Ogura, Daisuke Okuzaki, Jun Oda
 
 Traumatic brain injury (TBI) can alter various immune functions, including immunosuppression, and constitutes a risk factor for nosocomial infections and organ dysfunction. Although TBI can induce a decline in immune cell function, the detailed mechanisms remains to be elucidated. We aim to explore transcriptional signatures associated with post-TBI immune alterations in a pilot cohort using a comprehensive transcriptome analysis of immune cells. Three patients with traumatic brain injury and acute subdural hematoma were admitted to our hospital. We focused on three major subsets of immune cells responsible for the immune response: CD4 + T cells, CD8 + T cells, and monocytes. We evaluated the changes in immune function after injury using comprehensive transcriptome analysis. Blood samples were collected immediately after admission and one week later, and the data were compared with those of healthy volunteers. CD4 + , CD8 + T cells, and monocytes, the expression of pathways involved in cellular metabolism—including oxidative phosphorylation, mTORC1 signaling, MYC targets V1 and V2, and the unfolded protein response—was downregulated on day 7 compared with day 1. These findings suggest a transition from marked immune activation and metabolic upregulation on day 1 to an attenuated immune response by day 7. In CD4 + T cells, pathways associated with tissue remodeling and repair, such as hedgehog signaling and epithelial–mesenchymal transition, were upregulated from days 1 to 7, indicating a shift from inflammatory responses toward inflammation resolution and tissue repair. In this pilot study, comprehensive transcriptome profiling suggests time-dependent transcriptional shifts in CD4⁺ T cells, CD8⁺ T cells, and monocytes after TBI. These findings should be interpreted as hypothesis-generating and provide a framework for larger, confirmatory studies.
-## Authors
-Hiroshi Ito1,4, Masakazu Ishikawa2,3,4, Hisatake Matsumoto1, Hiroshi Ogura1, Daisuke Okuzaki2 & Jun Oda1
 
-## URL
 https://www.nature.com/articles/s41598-026-39991-6
